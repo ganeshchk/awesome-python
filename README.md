@@ -1,6 +1,6 @@
 # awesome python
  > python have the fun
- > <> with ♥️ by Ganesh
+ 
 
 # this is a collection of python programs created by me
 
